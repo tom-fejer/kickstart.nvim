@@ -1,6 +1,11 @@
 # kickstart.nvim
 
 ## Good to know
+### Cloning this to your config on mac/linux:
+```sh
+git clone https://github.com/tom-fejer/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+```
+
 This repo is a fork of kickstart.nvim.
 I added the original as an upstream, so if you need to get the latest from there
 you can do it with:
