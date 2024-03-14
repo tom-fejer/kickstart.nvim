@@ -4,16 +4,16 @@
 This repo is a fork of kickstart.nvim.
 I added the original as an upstream, so if you need to get the latest from there
 you can do it with:
-``sh
+```sh
 git fetch upstream
 git checkout master
 git merge upstream/master
-``
+```
 
 And to make changes to your fork, you can do:
-``sh
+```sh
 git push origin master
-``
+```
 
 ## Introduction
 
